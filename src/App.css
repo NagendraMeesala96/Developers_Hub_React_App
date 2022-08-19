@@ -1,0 +1,51 @@
+
+.bottom-border{
+  border-bottom: 4px solid red;
+}
+.AddPost{
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#sub-Add-Post{
+  margin: 50px;
+}
+.card{
+  margin-top: 20px;
+}
+#id{
+  border-radius: 20px;
+}
+.page-bg{
+  background: black;
+  height: 500vh;
+}
+.card-bg{
+  height: 200vh;
+}
+.header-border{
+  border-bottom: 2px solid black;
+}
+.bid{
+  position: relative;
+  left: 0px;
+}
+p{
+  text-align: justify;
+}
+.user-pro{
+
+	height: 2000px;
+	background-color: #fba8a4;
+	background-image: linear-gradient(315deg, #dad2f3 0%, #dad2f3 74%);
+}
+.error-msg{
+  border-left: 5px solid red;
+}
+img {
+  border-radius: 50%;
+}
+.nav-react{
+  background: black;
+}
